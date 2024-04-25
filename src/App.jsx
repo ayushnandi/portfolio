@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Home from "./components/Home";
+import Home from "./Components/Home";
 import Gridlayout from "./Components/Gridlayout";
 import Projects from "./Components/Projects";
 import About from "./Components/About";
