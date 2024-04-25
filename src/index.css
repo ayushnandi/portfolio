@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.about-bg{
+    background: url("../public/svg/papercut.svg");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.skills-bg{
+    background: url("../public/svg/grid2.svg");
+    height: 21.48rem;
+    width: 61rem;
+    /* display: flex;
+    justify-content: flex-end; */
+    /* background-size: 85rem 22rem; */
+    background-repeat: no-repeat;
+    /* background-position: center; */
+}
+
+.swiper {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 5rem;
+  }
+  
+  .swiper-slide {
+    background-color: black;
+    display: flex;
+    /* padding: 20px; */
+    border-radius: 20%;
+    background-position: center;
+    background-size: fit;
+    width: 27rem;
+    height: 20rem;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    
+  }

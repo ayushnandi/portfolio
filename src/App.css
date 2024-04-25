@@ -1,0 +1,75 @@
+@font-face {
+    font-family: "tusker";
+    src: local("tusker"),
+        url("../public/font/tusker.ttf") format("truetype");
+}
+
+@font-face{
+    font-family: "PoppinsBold";
+    src: local("PoppinsBold"),
+        url("../public/font/PoppinsBold.ttf") format("truetype");
+}
+
+@font-face{
+    font-family: "PoppinsRegular";
+    src: local("PoppinsRegular"),
+        url("../public/font/PoppinsRegular.ttf") format("truetype");
+}
+
+@font-face{
+    font-family: "Poppinsemibold";
+    src: local("Poppinsemibold"),
+        url("../public/font/PoppinsSemiBold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "MDPrimer";
+    src: local("MDPrimer"),
+        url("../public/font/MDPrimer.ttf") format("truetype");
+}
+
+.Poppinsemibold{
+    font-family: "Poppinsemibold";
+}
+
+.loda{
+    font-family: "tusker";
+}
+
+.MDPrimer{
+    font-family: "MDPrimer";
+}
+
+.PoppinsBold{
+    font-family: "PoppinsBold";
+}
+
+.PoppinsRegular{
+    font-family: "PoppinsRegular";
+}
+  
+  
+  .button {
+    margin: 0;
+    padding: 8px 2.5rem;
+    font-size: 1rem;
+    color: #EEE5E0;
+    background-color: #212121;
+    border: none;
+    border-radius: 45px;
+    /* box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1); */
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  .button:hover {
+    background-color: #EEE5E0;
+    /* box-shadow: 0px 15px 20px rgba(238, 229, 224, 0.4); */
+    color: #000;
+    transform: translateY(-3px);
+  }
+  
+  button:active {
+    transform: translateY(-1px);
+  }
