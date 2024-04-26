@@ -1,4 +1,6 @@
 import React from "react";
+import { DaVinciResolve1,adobeXD1, bootstrap1 ,figma1 ,git1  ,java1 ,tailwind1,react2
+ , python1 ,nodejs3 ,mongoDB1 ,js1} from "../../public/assets/assetsManager";
 
 export default function skills() {
   return (
@@ -14,7 +16,7 @@ export default function skills() {
           <div className="flex m-5 gap-x-[8rem] w-[80%]">
             <div className="flex items-center">
               <img
-                src="../../public/svg/java.svg"
+                src={java1}
                 className="h-[4rem] mx-5"
                 alt=""
               />
@@ -24,7 +26,7 @@ export default function skills() {
             </div>
             <div className="flex items-center">
               <img
-                src="../../public/svg/python.svg"
+                src={python1}
                 className="h-[4rem] mx-5"
                 alt=""
               />
@@ -40,7 +42,7 @@ export default function skills() {
               
               <div className="gap-[2rem] flex pt-[1.6rem] justify-center items-center">
                 <img
-                  src="../../public/svg/adobeXD.svg"
+                  src={adobeXD1}
                   alt=""
                   className="h-[5rem] w-[4rem]"
                 />
@@ -49,14 +51,14 @@ export default function skills() {
               <div className="gap-[2rem] pt-[1.8rem] flex justify-center items-center">
                 <h2 className="text-[2rem]">Figma</h2>
                 <img
-                  src="../../public/svg/figma.svg"
+                  src={figma1}
                   alt=""
                   className="h-[5rem] w-[2.5rem]"
                 />
               </div>
               <div className="gap-[1rem] pt-[1.8rem] flex justify-center items-center">
               <img
-                  src="../../public/svg/DaVinciResolve.svg"
+                  src={DaVinciResolve1}
                   alt=""
                   className="h-[5rem] w-[4.5rem]"
                 />
@@ -68,7 +70,7 @@ export default function skills() {
               <div className="relative">
                 <div className="absolute left-[12rem] top-[1.2rem] gap-[10px] flex justify-center items-center">
                   <img
-                    src="../../public/svg/React.svg"
+                    src={react2}
                     alt=""
                     className="h-[5rem] w-[5rem]"
                   />
@@ -76,7 +78,7 @@ export default function skills() {
                 </div>
                 <div className="absolute left-[30rem] top-[1.2rem] gap-[10px] flex justify-center items-center">
                   <img
-                    src="../../public/svg/mongoDB.svg"
+                    src={mongoDB1}
                     alt=""
                     className="h-[5rem] w-[5rem]"
                   />
@@ -84,7 +86,7 @@ export default function skills() {
                 </div>
                 <div className="absolute left-[3rem] top-[8.2rem] gap-[10px] flex justify-center items-center">
                   <img
-                    src="../../public/svg/nodejs3.svg"
+                    src={nodejs3}
                     alt=""
                     className="h-[5rem] w-[5rem]"
                   />
@@ -92,7 +94,7 @@ export default function skills() {
                 </div>
                 <div className="absolute left-[22rem] top-[8.2rem] gap-[10px] flex justify-center items-center">
                   <img
-                    src="../../public/svg/git.svg"
+                    src={git1}
                     alt=""
                     className="h-[5rem] w-[5rem]"
                   />
@@ -100,7 +102,7 @@ export default function skills() {
                 </div>
                 <div className="absolute left-[40rem] top-[8.2rem] gap-[10px] flex justify-center items-center">
                   <img
-                    src="../../public/svg/bootstrap.svg"
+                    src={bootstrap1}
                     alt=""
                     className="h-[5rem] w-[5rem]"
                   />
@@ -108,7 +110,7 @@ export default function skills() {
                 </div>
                 <div className="absolute left-[11rem] top-[15.2rem] gap-[10px] flex justify-center items-center">
                   <img
-                    src="../../public/svg/tailwind.svg"
+                    src={tailwind1}
                     alt=""
                     className="h-[5rem] w-[5rem]"
                   />
@@ -116,7 +118,7 @@ export default function skills() {
                 </div>
                 <div className="absolute left-[31rem] top-[15.2rem] gap-[10px] flex justify-center items-center">
                   <img
-                    src="../../public/svg/js.svg"
+                    src={js1}
                     alt=""
                     className="h-[5rem] w-[4rem]"
                   />
