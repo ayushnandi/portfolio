@@ -7,11 +7,11 @@ import "swiper/css/navigation";
 
 import { Swiper, SwiperSlide } from "swiper/react";
 
-import slide_image_1 from "../../public/img/projects/pp.jpg";
-import slide_image_2 from "../../public/img/projects/Sneaker2.png";
-import slide_image_3 from "../../public/img/projects/PrePPT.png";
-import slide_image_4 from "../../public/img/projects/xd.png";
-import slide_image_5 from "../../public/img/projects/Sneaker.png";
+import slide_image_1 from "../../public/assets/projects/pp.jpg";
+import slide_image_2 from "../../public/assets/projects/Sneaker2.png";
+import slide_image_3 from "../../public/assets/projects/PrePPT.png";
+import slide_image_4 from "../../public/assets/projects/xd.png";
+import slide_image_5 from "../../public/assets/projects/Sneaker.png";
 
 import { EffectCoverflow, Pagination, Navigation } from "swiper/modules";
 

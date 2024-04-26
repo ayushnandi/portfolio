@@ -1,0 +1,30 @@
+import ayush1 from '../../public/assets/ayush.png'
+import adobeXD1 from '../../public/svg/adobeXD.svg'
+import android1 from '../../public/svg/android.svg'
+import BD1 from '../../public/svg/BD.svg'
+import bootstrap1 from '../../public/svg/bootstrap.svg'
+import DaVinciResolve1 from '../../public/svg/DaVinciResolve.svg'
+import figma1 from '../../public/svg/figma.svg'
+import figma2 from '../../public/svg/figma1.svg'
+import git1 from '../../public/svg/git.svg'
+import gridB from '../../public/svg/gridB.svg'
+import java1 from '../../public/svg/java.svg'
+import java2 from '../../public/svg/java2.svg'
+import user1 from '../../public/svg/user1.svg'
+import tailwind1 from '../../public/svg/tailwind.svg'
+import react1 from '../../public/svg/react1.svg'
+import react2 from '../../public/svg/React.svg'
+import python1 from '../../public/svg/python.svg'
+import pfp from '../../public/svg/pfp.svg'
+import papercut from '../../public/svg/papercut.svg'
+import nodejs3 from '../../public/svg/nodejs3.svg'
+import nodejs1 from '../../public/svg/nodejs.svg'
+import mongoDB1 from '../../public/svg/mongoDB.svg'
+import js1 from '../../public/svg/js.svg'
+import books from '../../public/assets/books.png'
+import vanGosh from '../../public/svg/VanGosh.svg'
+
+
+export {ayush1, BD1, DaVinciResolve1, android1 ,adobeXD1, bootstrap1 ,figma1 ,
+     figma2 ,git1 ,gridB ,java1 ,java2 ,user1,tailwind1, react1 ,react2
+    , python1 ,pfp, papercut , nodejs1 , nodejs3 ,mongoDB1 ,js1, books, vanGosh};

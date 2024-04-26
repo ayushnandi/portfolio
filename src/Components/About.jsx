@@ -1,11 +1,12 @@
 import React from "react";
+import { books , vanGosh} from "../../public/assets/assetsManager";
 
 export default function About() {
   return (
     <div className="h-[100vh] relative">
       <div className="">
         <img
-          src="../../public/svg/VanGosh.svg"
+          src={vanGosh}
           alt=""
           className="absolute right-[1.6rem] h-[12.6rem] top-[-1rem]"
         />
@@ -46,7 +47,7 @@ export default function About() {
         </div>
         <div>
           <img
-            src="../../public/img/books.png"
+            src={books}
             alt=""
             className="absolute h-[19.6rem] left-[1%] bottom-[0rem]"
           />
@@ -55,11 +56,11 @@ export default function About() {
             alt=""
             className="absolute h-[6.2rem] rotate-[-30deg] left-[6%] top-[3rem]"
           /> */}
-          {/* <img
+           {/* <img
             src="../../public/img/sun.png"
             alt=""
             className="absolute h-[13rem] right-[8%] bottom-[-2rem]"
-          /> */}
+          />  */}
         </div>
       </div>
     </div>

@@ -36,9 +36,9 @@ export default function skills() {
         </div>
         <div>
           <div className="w-[100%] flex justify-end my-[3rem] PoppinsBold relative">
-            <div className="text-white absolute start-[0px] ">
+            <div className="text-white w-[32%] absolute start-[2rem] flex-col md:flex-row justify-center items-center">
               
-              <div className="start-[12%] absolute top-[1.2rem] gap-[4rem] flex justify-center items-center">
+              <div className="gap-[2rem] flex pt-[1.6rem] justify-center items-center">
                 <img
                   src="../../public/svg/adobeXD.svg"
                   alt=""
@@ -46,7 +46,7 @@ export default function skills() {
                 />
                 <h2 className="text-[2rem]">Adobe XD</h2>
               </div>
-              <div className="absolute start-[13%] top-[8.2rem] gap-[5rem] flex justify-center items-center">
+              <div className="gap-[2rem] pt-[1.8rem] flex justify-center items-center">
                 <h2 className="text-[2rem]">Figma</h2>
                 <img
                   src="../../public/svg/figma.svg"
@@ -54,7 +54,7 @@ export default function skills() {
                   className="h-[5rem] w-[2.5rem]"
                 />
               </div>
-              <div className="absolute start-[10%] top-[15.2rem] gap-[2rem] flex justify-center items-center">
+              <div className="gap-[1rem] pt-[1.8rem] flex justify-center items-center">
               <img
                   src="../../public/svg/DaVinciResolve.svg"
                   alt=""
