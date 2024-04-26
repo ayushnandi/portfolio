@@ -21,7 +21,11 @@ export default function skills() {
                 alt=""
               />
               <p className="text-[14px]">
-              Java is a popular, object-oriented language with remarkable portability, thanks to its Java Virtual Machine (JVM), allowing code to run seamlessly across different platforms.
+              {/* I primarily focus on utilizing  */}
+              Java as my primary programming language across various formats. 
+              This includes tackling competitive coding challenges, particularly in Data Structures and Algorithms (DSA),
+               {/* as well as undertaking  */}
+               basic GUI (Graphical User Interface) development.
               </p>
             </div>
             <div className="flex items-center">
@@ -31,7 +35,8 @@ export default function skills() {
                 alt=""
               />
               <p className="text-[14px]">
-              Python is a dynamic, high-level language prized for its readability and simplicity. Its unique feature is its indentation-based syntax, promoting clean and easily understandable code.
+              
+I leverage Python as a supplementary language due to its extensive libraries, which enhance my efficiency and refine my machine learning endeavors.
               </p>
             </div>
           </div>

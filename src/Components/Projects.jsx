@@ -51,8 +51,8 @@ export default function projects() {
           <SwiperSlide>
             <div className="bg-[#9da6b7] frame_swiper rounded-lg p-4">
               <img src={slide_image_3} alt="slide_image" />
-              <p className="text-white pt-[5px] PoppinsBold">
-              This website utilizes OpenAI's capabilities to create concise, appealing PPTs efficiently.
+              <p className="text-white pt-[5px] PoppinsRegular">
+              <span className="PoppinsBold">PrePPT : </span>This website utilizes OpenAI's capabilities to create concise, appealing PPTs efficiently.
               </p>
               <div className="flex gap-[10px]">
               <button className="bg-[#353537] rounded-lg hover:bg-[#535353] text-white font-bold py-2 px-4 ">
@@ -73,8 +73,8 @@ export default function projects() {
           <SwiperSlide>
             <div className="bg-[#252525] frame_swiper rounded-lg p-4">
               <img src={slide_image_1} className="" alt="slide_image" />
-              <p className="text-white pt-[5px] PoppinsBold">
-                This is a Portfolio website with react, Node Js, 
+              <p className="text-white pt-[5px] PoppinsRegular">
+              <span className="PoppinsBold">Portfolio : </span>ThisThis is a Portfolio website with react, Node Js, 
               </p>
               <div className="flex gap-[10px]">
               <button href="https://theuntitled-shoes-website.netlify.app/" className="bg-[#0b0b0b] rounded-lg hover:bg-[#404040] text-white font-bold py-2 px-4 ">
@@ -98,9 +98,9 @@ export default function projects() {
           <SwiperSlide>
             <div className="bg-[#494949] frame_swiper rounded-lg p-4">
               <img src={slide_image_4} className="" alt="slide_image" />
-              <p className="text-white pt-[5px] PoppinsBold">
-                Description: This is the first project. Lorem ipsum dolor sit
-                amet, consectetur adipiscing elit.
+              <p className="text-white pt-[5px] PoppinsRegular">
+              <span className="PoppinsBold">Netflix design : </span>ThisDescription: This is the first project. Lorem ipsum dolor sit
+                amet.
               </p>
               <div className="flex gap-[10px]">
               <button className="bg-[#ff4040] rounded-lg hover:bg-[#ff8585] text-white font-bold py-2 px-4 ">
@@ -121,8 +121,8 @@ export default function projects() {
           <SwiperSlide>
             <div className="bg-[#969696] frame_swiper rounded-lg p-4">
               <img src={slide_image_5} alt="slide_image" />
-              <p className="text-white pt-[5px] PoppinsBold">
-                Description: This is the first project. Lorem ipsum dolor sit
+              <p className="text-white pt-[5px] PoppinsRegular">
+              <span className="PoppinsBold">Random : </span>ThisDescription: This is the first project. Lorem ipsum dolor sit
                 amet, consectetur adipiscing elit.
               </p>
               <div className="flex gap-[10px]">
@@ -145,8 +145,8 @@ export default function projects() {
           <SwiperSlide>
             <div className="bg-[#969696] frame_swiper rounded-lg p-4">
               <img src={slide_image_2} alt="slide_image" />
-              <p className="text-white pt-[5px] PoppinsBold">
-                Static E-Commers ,Shose Shopping website With Dynamic Design, Interactive with UI/UX
+              <p className="text-white pt-[5px] PoppinsRegular">
+              <span className="PoppinsBold">TheUntitled : </span>ThisStatic E-Commers ,Shose Shopping website With Dynamic Design, Interactive with UI/UX
               </p>
               <div className="flex gap-[10px]">
               <button className="bg-[#3c3c3c] rounded-lg hover:bg-[#646464] text-white font-bold py-2 px-4 ">

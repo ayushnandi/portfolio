@@ -8,7 +8,7 @@ export default function About() {
         <img
           src={vanGosh}
           alt=""
-          className="absolute right-[1.6rem] h-[12.6rem] top-[-1rem]"
+          className="absolute right-[1.5%] h-[12rem] top-[-1rem]"
         />
       </div>
       <div className="about-bg">
