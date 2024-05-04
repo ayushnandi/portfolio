@@ -13,7 +13,7 @@ function App() {
   return (
     <div>
       <div className="bg-bgHome">
-        <div className="flex pl-[8rem] bg-[#212121] justify-between items-center pr-[3rem] w-full h-[5rem] sticky top-0 z-[999] ">
+        <div className="flex pl-[8rem]  justify-between items-center pr-[3rem] w-full h-[5rem] sticky top-0 z-[999] ">
           <div className=" text-4xl MDPrimer text-sk1 cursor-pointer [text-shadow:1px_1px_8px_var(--tw-shadow-color)] shadow-black">
             AYUSH NANDI
           </div>
